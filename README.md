@@ -3,6 +3,11 @@ Android Studio Remaked Yumessage Social Media Application
 ![alt text](https://i.hizliresim.com/dTEKzD.gif)
 
 
+
+
+
+
+
 Önemli Notlar!!
 **Lütfen Veritabanı dosyanızı oluşturup atmayı unutmayın!!(İlgili Rehber:https://stackoverflow.com/questions/41660766/register-account-firebase-through-android-app)
 **Eğer Gradle Sorunu yaşarsanız 5.6.4 e yükseltin.Android Studio 3.6.1 versiyonu kullanılmıştır.
