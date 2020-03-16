@@ -1,11 +1,7 @@
 # YuMessage
-Android Studio Remaked Yumessage Social Media Application
 ![alt text](https://i.hizliresim.com/dTEKzD.gif)
 
-
-
-
-
+Android Studio Remaked Yumessage Social Media Application
 
 
 Önemli Notlar!!
